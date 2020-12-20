@@ -15,6 +15,7 @@ Exemplo:
 Entrada
 <p>
 5
+  <p>
 4 -3 7 8 2
 <p>
 Saída
